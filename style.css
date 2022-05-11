@@ -1,0 +1,29 @@
+body {
+    background-size: cover;
+}
+
+#heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+.footer {
+    position: fixed;
+    background-color: chartreuse;
+    color: darkslategray;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+canvas {
+    margin-top: 100px;
+    border-style: double;
+    border-color: gainsboro;
+    border-width: 5px;
+    border-radius: 15px;
+}
